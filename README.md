@@ -8,6 +8,9 @@ Run tests:
 
 $ make tests
 
+Request syntax:
+curl -d "lat=<latitude>&lon=<longitude>" localhost:8080
+
 
 Description of solution:
 
